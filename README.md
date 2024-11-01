@@ -1,4 +1,4 @@
-# Classifier Performance Evaluation on Loan Applications
+# Classifier Performance Evaluation on Loan Applications by Suryodaya Bikram Shahi
 
 ## Project Overview
 
