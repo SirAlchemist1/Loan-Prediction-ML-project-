@@ -21,8 +21,8 @@ The data for this project is provided in two separate files:
 ## Project Structure
 /Suryodaya's_Classifier_Performance_Evaluation_on_Loan_Applications_
 │
-├── TrainingData.csv
-├── TestingData.csv
+├── TrainingData-2.csv
+├── TestingData-2.csv
 ├── Classifier_Performance_Evaluation.ipynb
 └── README.md
 
