@@ -81,10 +81,6 @@ You can install the required libraries using pip:
 - The project concludes with a comparison of the classifiers' performances and insights into the impact of PCA on classification accuracy.
 - Future work may include further hyperparameter tuning and exploring additional classifiers.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
